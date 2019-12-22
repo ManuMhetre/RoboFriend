@@ -30,7 +30,7 @@ class App extends React.Component {
       
     </div>
   );
-  }
+}
 }
 
 export default App;
